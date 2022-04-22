@@ -1,3 +1,2 @@
 console.log('first commit')
-console.log('second comit')
-console.log('third comit')fdsfds
+console.log('second commit')
